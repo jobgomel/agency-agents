@@ -1,6 +1,7 @@
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
 > [Youtube Video](https://www.youtube.com/watch?v=f3rDD5I53Bk)
 
 [![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)
